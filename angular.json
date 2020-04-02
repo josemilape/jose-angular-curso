@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "josemiguel-angular9"
+    }
+  },
+  "defaultProject": "josemiguel-angular9",
+  "cli": {
+    "analytics": "99c45c74-c6f8-476f-b198-f0ca2cde9f59"
+  }
 }
